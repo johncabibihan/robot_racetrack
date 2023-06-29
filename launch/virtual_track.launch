@@ -7,7 +7,6 @@
   <arg name="position" value="position: {x: 0.0, y: 0.0, z: 0.0}"/>
   <arg name="pose" value="pose: {$(arg orientation), $(arg position)}"/>
   <arg name="lt" value="lifetime: {nsecs: 0, secs: 0}"/>
-  <!-- start of race track coordinates -->
     <!-- start of race track coordinates -->
   <arg name="p1" value="{x: -1.0, y: 0.0, z: 0.0}"/>
   <arg name="p2" value="{x: 1.0, y: 0.0, z: 0.0}"/>
